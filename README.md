@@ -10,7 +10,19 @@ Smart Contract For Token_Transfer (Transfer Ether tokens to Qtum address/Account
 * Ganache Server
 
 * Metamask
+
 ```
+
+
+#### Important Components
+
+* ECR20 used for creation of Ether tokens..
+
+* QCR20 used for creation of Qtum tokens..
+
+* Accounts accountA, and accountB created for storing Ether and Qtum tokens respectively..
+
+* Transfer Ether tokens from accountA to accountB..
 
 
 #### Setup
