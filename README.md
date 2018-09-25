@@ -32,6 +32,8 @@ Smart Contract For Token_Transfer (Transfer Ether tokens to Qtum address/Account
 * Qtum tokens are created by using QCR20 based smart contract for creating Qtum tokens.
 * Third smart contract is created for transfer of tokens from Ether account address to Qtum address.
 * All the implementations are in solidity and nodejs.
+* The code repository also contains the code for the test of the implementation.
+* Following are steps to compile and test the implementation. 
 
 
 #### Setup
