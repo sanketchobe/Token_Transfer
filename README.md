@@ -24,6 +24,15 @@ Smart Contract For Token_Transfer (Transfer Ether tokens to Qtum address/Account
 
 * Transfer Ether tokens from accountA to accountB..
 
+#### Project Description
+
+* This project contains the set of smart contracts which are useful to create tokens and transfer tokens from one address to another.
+
+* Ether tokens are created by using ECR20 based smart contract for creating Ether tokens.
+* Qtum tokens are created by using QCR20 based smart contract for creating Qtum tokens.
+* Third smart contract is created for transfer of tokens from Ether account address to Qtum address.
+* All the implementations are in solidity and nodejs.
+
 
 #### Setup
 ```js
