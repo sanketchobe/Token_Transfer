@@ -3,6 +3,15 @@
 Smart Contract For Token_Transfer (Transfer Ether tokens to Qtum address/Account)   
 
 
+#### Requirements
+```
+* Trufflesuite
+
+* Ganache Server
+
+* Metamask
+```
+
 
 #### Setup
 ```js
